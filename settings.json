@@ -54,9 +54,9 @@
         "editorBracketPairGuide.activeBackground5": "#7aa08f",
         "editorBracketPairGuide.activeBackground6": "#7aa08f",
         "editorIndentGuide.activeBackground1": "#7aa08f",
-        // change theme colors
+        // change theme colors for Ilyat Poimandres Darker 
         "editor.background":"#171616",
-        "editor.foreground":"#e6dbdb",
+        "editor.foreground":"#ede3e3",
         "sideBar.background":"#171616",
         "sideBar.border": "#3b3939",
         "sideBar.foreground":"#e6dbdb",
